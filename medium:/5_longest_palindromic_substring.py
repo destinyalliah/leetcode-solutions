@@ -1,7 +1,7 @@
 # Problem: Longest Palindromic Substring
 # Difficulty: Medium
 # LeetCode URL: https://leetcode.com/problems/longest-palindromic-substring/
-# Solution by: Your Name
+# Solution by: Destiny
 # Time Complexity: O(n^2)
 # Space Complexity: O(1)
 
