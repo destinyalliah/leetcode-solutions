@@ -13,3 +13,4 @@
 ## Problems
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/?envType=problem-list-v2&envId=oizxjoit)
+- [3Sum](https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=oizxjoit)
