@@ -7,6 +7,7 @@
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=problem-list-v2&envId=oizxjoit)
 - [Missing Number](https://leetcode.com/problems/missing-number/?envType=problem-list-v2&envId=oizxjoit)
+- [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)
   
 # Medium Problems
 
