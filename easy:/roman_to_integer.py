@@ -16,7 +16,7 @@ class Solution(object):
         }
         #initialise the total
         #convert the roman numeral input into a string
-        total = 0
+        sum = 0
         r = str(s)
 
         #loop through each numeral
