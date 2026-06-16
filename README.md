@@ -12,6 +12,7 @@
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+- [Ransom Note](https://github.com/destinyalliah/leetcode-solutions)
 
 # Medium Problems
 ## Problems
