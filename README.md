@@ -14,6 +14,7 @@
 - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [Ransom Note](https://github.com/destinyalliah/leetcode-solutions)
 - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
+- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 # Medium Problems
 ## Problems
