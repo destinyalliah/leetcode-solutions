@@ -16,6 +16,7 @@
 - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 # Medium Problems
 ## Problems
