@@ -13,6 +13,7 @@
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [Ransom Note](https://github.com/destinyalliah/leetcode-solutions)
+- [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 
 # Medium Problems
 ## Problems
