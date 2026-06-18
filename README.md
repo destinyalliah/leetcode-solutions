@@ -18,6 +18,8 @@
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [Baseball Game](https://leetcode.com/problems/baseball-game/)
+
 
 # Medium Problems
 ## Problems
