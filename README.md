@@ -17,6 +17,7 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 # Medium Problems
 ## Problems
