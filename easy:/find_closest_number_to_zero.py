@@ -5,9 +5,10 @@ class Solution(object):
         :rtype: int
         """
         closest = nums[0]
-        for num in nums:
-            if abs(num) < abs(closest):
-                closest = num
-            elif abs(num) == abs(closest) and num > closest:
-                closest = num
+        for i in nums:
+            if abs(i) < abs(closest):
+                closest = i 
+            else:
+                if abs(i) == abs(closest) and i > 0:
+                    closest = i
         return closest
